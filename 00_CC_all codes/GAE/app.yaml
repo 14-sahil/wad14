@@ -1,0 +1,10 @@
+application: birthday
+runtime: python27
+api_version: 1.0
+threadsafe: true
+
+handlers:
+  - url: /
+    script: main.app
+
+  #  py google-cloud-sdk\bin\dev_appserver.py <path of python project>

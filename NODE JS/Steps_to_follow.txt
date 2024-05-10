@@ -1,0 +1,14 @@
+create folder anywhere and open in vscode
+in the vs code terminal...
+>node -v
+>npm init -y
+
+create index.js folder in the opened current folder
+>npm i express --save
+
+create public folder 
+inside this create index.html and style.css
+
+to run
+>node index.js
+

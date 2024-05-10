@@ -1,0 +1,1 @@
+This is text file. We will get the content of this file using AJAX GET request.
